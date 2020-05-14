@@ -5,4 +5,4 @@ This project is a homework to teach how to get Pycharm setup with the Docker, Fl
 ![postman request output](screenshots/postman.PNG)
 
 # SQL Data Screenshot
-![pycharm data query](screenshots/Query.PNG)
+![pycharm data query](screenshots/query.PNG)
